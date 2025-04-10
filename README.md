@@ -10,7 +10,7 @@ Risk vs Reward: What Kind of Investor Are You?: A personalized, quiz-like dashbo
 
 Together, these tools create an interactive experience that makes global finance engaging, visual, and personal.
 
-🥇 Part 1: Global Financial Olympics — Which Countries Dominate?
+Part 1: Global Financial Olympics — Which Countries Dominate?
 
 We transform complex financial data into a global competition, assigning Gold, Silver, and Bronze rankings to countries based on the number of top companies they have across metrics such as:
 Revenue
